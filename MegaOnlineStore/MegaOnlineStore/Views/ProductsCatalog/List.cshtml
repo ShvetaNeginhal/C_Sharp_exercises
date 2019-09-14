@@ -1,0 +1,80 @@
+﻿@model IEnumerable<MegaOnlineStore.Models.Entities.SaleItem>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h4>Products List</h4>
+
+<form action="/ProductsCatalog/List" method="post">
+    EnterCatagory: @Html.TextBox("Category")
+    Enter Minimum price: @Html.TextBox("min")
+    Enter Maximum price: @Html.TextBox("max")
+    <input type="submit" value="Search" />
+</form>
+
+
+<h2>List</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.TextBox("Quantity", item.Quantity)
+
+            </td>
+            <td>
+                @*name,action method,what you send from UI*@
+                @*@Html.ActionLink("Add to cart", "AddToCart", new { id = item.SaleItemID })*@ 
+
+                @*to send more info(object) to server make a button
+                    Submit the data by post*@
+                <form action="/ProductsCatalog/AddToCart" method="post">
+                    <input type="hidden" name="SaleItemId" value="@item.SaleItemID"/>
+                    @Html.Hidden("ItemName", item.ItemName)
+                    @Html.Hidden("Description", item.Description)
+                    @Html.Hidden("Category", item.Category)
+                    @Html.Hidden("Price", item.Price)
+                    @Html.TextBox("Quantity", item.Quantity)
+                    <input type="submit" value=" Add To Cart" />
+                </form>
+                
+
+            </td>
+        </tr>
+    }
+
+</table>
