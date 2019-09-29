@@ -1,0 +1,14 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\bin\Debug\collections.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\bin\Debug\collections.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\bin\Debug\collections.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\obj\Debug\collections.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\obj\Debug\collections.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\collections\collections\obj\Debug\collections.pdb
+F:\.net Source Codes\Basics\collections\collections\bin\Debug\collections.exe.config
+F:\.net Source Codes\Basics\collections\collections\bin\Debug\collections.exe
+F:\.net Source Codes\Basics\collections\collections\bin\Debug\collections.pdb
+F:\.net Source Codes\Basics\collections\collections\obj\Debug\collections.csprojAssemblyReference.cache
+F:\.net Source Codes\Basics\collections\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+F:\.net Source Codes\Basics\collections\collections\obj\Debug\collections.exe
+F:\.net Source Codes\Basics\collections\collections\obj\Debug\collections.pdb

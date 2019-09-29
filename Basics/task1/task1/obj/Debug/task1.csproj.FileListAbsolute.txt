@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\bin\Debug\task1.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\bin\Debug\task1.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\bin\Debug\task1.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\obj\Debug\task1.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\task1\task1\obj\Debug\task1.pdb

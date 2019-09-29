@@ -1,0 +1,6 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache

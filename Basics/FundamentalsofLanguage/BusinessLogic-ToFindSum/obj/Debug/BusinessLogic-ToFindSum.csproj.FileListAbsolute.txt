@@ -1,0 +1,5 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic-ToFindSum\bin\Debug\BusinessLogic-ToFindSum.dll
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic-ToFindSum\bin\Debug\BusinessLogic-ToFindSum.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic-ToFindSum\obj\Debug\BusinessLogic-ToFindSum.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic-ToFindSum\obj\Debug\BusinessLogic-ToFindSum.dll
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\BusinessLogic-ToFindSum\obj\Debug\BusinessLogic-ToFindSum.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\bin\Debug\Basic2.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\bin\Debug\Basic2.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\bin\Debug\Basic2.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\obj\Debug\Basic2.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\obj\Debug\Basic2.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\obj\Debug\Basic2.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Basics\FundamentalsofLanguage\Basic2\obj\Debug\Basic2.csprojAssemblyReference.cache
