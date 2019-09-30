@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\bin\Debug\TrainerTraineeApp.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\bin\Debug\TrainerTraineeApp.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\bin\Debug\TrainerTraineeApp.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\obj\Debug\TrainerTraineeApp.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\obj\Debug\TrainerTraineeApp.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\obj\Debug\TrainerTraineeApp.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\OOPS\TrainerTraineeApp\TrainerTraineeApp\obj\Debug\TrainerTraineeApp.csprojAssemblyReference.cache
