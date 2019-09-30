@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\Shapes\Shapes\obj\Debug\Shapes.pdb

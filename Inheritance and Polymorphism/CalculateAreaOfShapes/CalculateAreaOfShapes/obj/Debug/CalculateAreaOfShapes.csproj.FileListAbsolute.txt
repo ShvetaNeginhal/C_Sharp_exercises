@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\bin\Debug\CalculateAreaOfShapes.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\bin\Debug\CalculateAreaOfShapes.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\bin\Debug\CalculateAreaOfShapes.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\obj\Debug\CalculateAreaOfShapes.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\obj\Debug\CalculateAreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\obj\Debug\CalculateAreaOfShapes.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Inheritance\CalculateAreaOfShapes\CalculateAreaOfShapes\obj\Debug\CalculateAreaOfShapes.pdb
