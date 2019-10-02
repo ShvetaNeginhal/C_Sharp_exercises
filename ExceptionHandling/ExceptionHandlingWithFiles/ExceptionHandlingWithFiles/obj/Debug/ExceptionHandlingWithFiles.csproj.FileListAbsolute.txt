@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\obj\Debug\ExceptionHandlingWithFiles.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\obj\Debug\ExceptionHandlingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\bin\Debug\ExceptionHandlingWithFiles.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\bin\Debug\ExceptionHandlingWithFiles.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\bin\Debug\ExceptionHandlingWithFiles.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\obj\Debug\ExceptionHandlingWithFiles.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\ExceptionHandling\ExceptionHandlingWithFiles\ExceptionHandlingWithFiles\obj\Debug\ExceptionHandlingWithFiles.pdb
