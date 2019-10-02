@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\bin\Debug\SearchFile.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\bin\Debug\SearchFile.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\bin\Debug\SearchFile.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\obj\Debug\SearchFile.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\obj\Debug\SearchFile.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\obj\Debug\SearchFile.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\SearchFile\SearchFile\obj\Debug\SearchFile.pdb

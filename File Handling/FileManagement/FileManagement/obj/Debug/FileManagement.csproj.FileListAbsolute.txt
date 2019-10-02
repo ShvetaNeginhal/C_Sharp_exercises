@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\FileManagement\FileManagement\obj\Debug\FileManagement.pdb

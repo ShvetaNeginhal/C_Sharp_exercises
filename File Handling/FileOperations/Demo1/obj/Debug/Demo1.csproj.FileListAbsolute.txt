@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\bin\Debug\Demo1.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\bin\Debug\Demo1.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\obj\Debug\Demo1.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\File Handling\Demo1\Demo1\obj\Debug\Demo1.pdb
