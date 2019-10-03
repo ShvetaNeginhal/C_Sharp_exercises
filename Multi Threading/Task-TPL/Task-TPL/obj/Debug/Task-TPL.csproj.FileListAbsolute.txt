@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\bin\Debug\Task-TPL.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\bin\Debug\Task-TPL.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\bin\Debug\Task-TPL.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\obj\Debug\Task-TPL.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\obj\Debug\Task-TPL.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\obj\Debug\Task-TPL.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Task-TPL\Task-TPL\obj\Debug\Task-TPL.pdb

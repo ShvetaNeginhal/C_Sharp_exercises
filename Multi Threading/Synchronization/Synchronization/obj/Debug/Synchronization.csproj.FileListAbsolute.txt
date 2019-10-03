@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\bin\Debug\Synchronization.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\bin\Debug\Synchronization.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\bin\Debug\Synchronization.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\obj\Debug\Synchronization.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\obj\Debug\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\obj\Debug\Synchronization.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\Multi Threading\Synchronization\Synchronization\obj\Debug\Synchronization.pdb
