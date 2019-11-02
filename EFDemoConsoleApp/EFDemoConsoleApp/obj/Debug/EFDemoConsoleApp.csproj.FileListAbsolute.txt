@@ -1,0 +1,13 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EFDemoConsoleApp.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EFDemoConsoleApp.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EFDemoConsoleApp.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\obj\Debug\EFDemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\obj\Debug\EFDemoConsoleApp.csproj.CopyComplete
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\obj\Debug\EFDemoConsoleApp.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\obj\Debug\EFDemoConsoleApp.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\obj\Debug\EFDemoConsoleApp.Migrations.InitialCreate.resources
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\.net Source Codes\EFDemoConsoleApp\EFDemoConsoleApp\obj\Debug\EFDemoConsoleApp.csproj.GenerateResource.cache
